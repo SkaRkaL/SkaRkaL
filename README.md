@@ -3,7 +3,7 @@ Hello Dear 🤩
 
 I'm Saad you can call me ***KeePeR***
 
-- 🌱 I’m currently learning in [**42NETWORK**](https://www.42.fr) in Morocco [**1337**](https://www.1337.ma)
+- 🌱 I’m currently learning in [**42NETWORK**](https://www.42.fr) in [**1337**](https://www.1337.ma) Morocco
 - See u buddy, Haave a nice life 😁😎
 
 ## 42 Profil :
