@@ -3,7 +3,7 @@ Hello Dear 🤩
 
 I'm Saad you can call me ***KeePeR***
 
-- 🌱 I’m currently learning in [**42NETWORK**](www.42.fr)
+- 🌱 I’m currently learning in [**42NETWORK**](https://www.42.fr)
 - See u buddy, Haave a nice life 😁😎
 
 ## 42 Profil :
