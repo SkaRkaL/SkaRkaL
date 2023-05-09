@@ -1,10 +1,10 @@
 # This is Me
 Hello Dear 🤩
 
-I'm Saad you can call me ***KeePeR***
-- 🌱 I’m currently learning in 42NETWORK
+I'm Saad you can call me ***KeePeR
 
-- See u buddy, Keeep Stalking 😁😎
+*- 🌱 I’m currently learning in **42NETWORK
+*- See u buddy, Keeep Stalking 😁😎
 
 ## 42 Profil :
 [![sakarkal's 42 stats](https://badge.mediaplus.ma/black/sakarkal)](https://github.com/oakoudad/badge42)
