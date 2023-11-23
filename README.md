@@ -12,7 +12,7 @@ I'm Saad you can call me ***KeePeR***
 ## Profil Stats 📈:
 <img src="https://github-readme-stats.vercel.app/api?username=skarkal&count_private=true&show_icons=true&theme=vue-dark"/>
 
-[![sakarkal's 42 stats](https://badge.mediaplus.ma/black/sakarkal)](https://github.com/oakoudad/badge42)
+[![sakarkal's 42 stats](https://badge.mediaplus.ma/darkblue/sakarkal)](https://github.com/oakoudad/badge42)
 
 ## Tech Stack :
 
