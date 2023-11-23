@@ -10,7 +10,6 @@ I'm Saad you can call me ***KeePeR***
 
 ## Profil Stats 📈:
 <img src="https://github-readme-stats.vercel.app/api?username=osallak&count_private=true&show_icons=true&theme=vue-dark"/>
-<br/>
 [![sakarkal's 42 stats](https://badge.mediaplus.ma/black/sakarkal)](https://github.com/oakoudad/badge42)
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SkaRkal&label=Profile%20views&color=0e75b6&style=flat" alt="SkaRkal" /> </p>
