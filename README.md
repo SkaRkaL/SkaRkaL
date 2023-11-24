@@ -8,7 +8,7 @@ I'm Saad you can call me ***SkrkL***
   don't panic if you get some undefined behaviors on other Operating Systems
 - See u buddy, Have a nice life 😁😎
 
-<p align="left" margin=20%> <img src="https://komarev.com/ghpvc/?username=SkaRkal&label=VIEWS&color=8a2be2&style=for-the-badge" alt="SkaRkal" /> </p>
+<p align="center" margin=20%> <img src="https://komarev.com/ghpvc/?username=SkaRkal&label=VIEWS&color=8a2be2&style=for-the-badge" alt="SkaRkal" /> </p>
 
 ## Profil Stats 📈:
 <img src="https://github-readme-stats.vercel.app/api?username=skarkal&count_private=true&show_icons=true&theme=vue-dark"/>
