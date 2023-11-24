@@ -11,7 +11,7 @@ I'm Saad you can call me ***SkrkL***
 ## Profil Stats 📈:
 <img src="https://github-readme-stats.vercel.app/api?username=skarkal&count_private=true&show_icons=true&theme=vue-dark"/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SkaRkal&label=VIEWS&color=8a2be2&style=for-the-badge" alt="SkaRkal" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=SkaRkal&label=VIEWS&color=8a2be2&style=for-the-badge" alt="SkaRkal" /> </p>
 
 [![sakarkal's 42 stats](https://badge.mediaplus.ma/black/sakarkal)](https://github.com/oakoudad/badge42)
 
