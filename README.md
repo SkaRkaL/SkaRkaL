@@ -7,7 +7,7 @@ I'm Saad you can call me ***SkrkL***
 - Important Notice also that all My C projects are tested Only on macOS,
   don't panic if you get some undefined behaviors on other Operating Systems
 - See u buddy, Have a nice life 😁😎
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SkaRkal&label=Profile%20views&color=0e75b6&style=flat" alt="SkaRkal" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SkaRkal&label=Profile%20views&color=8a2be2&style=flat" alt="SkaRkal" /> </p>
 
 ## Profil Stats 📈:
 <img src="https://github-readme-stats.vercel.app/api?username=skarkal&count_private=true&show_icons=true&theme=vue-dark"/>
