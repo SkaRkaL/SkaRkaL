@@ -17,7 +17,7 @@ I'm Saad you can call me ***SkrkL***
 
 ## Tech Stack :
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 
 ## 🌐 Socials:
 
